@@ -1,0 +1,23 @@
+
+
+.navbar{
+  padding: 20px;
+  background-color: rgb(226, 234, 241);
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: large;
+}
+.pesquisa{
+  display:flex;
+  justify-content: center;
+  padding: 20px 0;
+
+}
+.card{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+
